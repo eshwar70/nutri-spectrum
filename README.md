@@ -65,6 +65,7 @@ During the development phase, extensive data analysis was conducted to validate 
      npm install
      node app.js
      ```
+
      
 > Node runtime and npm packages are prerequisites to run above commands
 
